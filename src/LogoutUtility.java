@@ -1,4 +1,5 @@
 public class LogoutUtility {
 
-    // awesome service
+    // Awesome Utility
+    // Code
 }
